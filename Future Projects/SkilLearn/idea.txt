@@ -1,0 +1,1 @@
+A website that displays skills I've set my sights on, goals within this skill that I will reach by learning more of the skill. Once completed a skillset it will transfe to a Current Acquired Skills webpage.
